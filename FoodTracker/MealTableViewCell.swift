@@ -2,8 +2,6 @@
 //  MealTableViewCell.swift
 //  FoodTracker
 //
-//  Created by HI Iberia on 7/6/16.
-//
 //
 
 import UIKit

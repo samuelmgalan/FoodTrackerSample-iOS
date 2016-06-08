@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by HI Iberia on 1/6/16.
-//
 //
 
 import UIKit

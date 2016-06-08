@@ -2,8 +2,6 @@
 //  RatingControl.swift
 //  FoodTracker
 //
-//  Created by HI Iberia on 6/6/16.
-//
 //
 
 import UIKit
